@@ -3,7 +3,7 @@
 Legal documents for the BizPocket app.
 
 ## Privacy Policy
-https://bizpocket.github.io/bizpocket-privacy/
+https://bizpocket.github.io/bizpocket-privacy/privacy.html
 
 ## Terms & Conditions
 https://bizpocket.github.io/bizpocket-privacy/terms.html
