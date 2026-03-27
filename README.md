@@ -1,3 +1,12 @@
-# BizPocket Privacy Policy
+# BizPocket – Legal Pages
 
-Live policy page: https://bizpocket.github.io/bizpocket-privacy/
+Legal documents for the BizPocket app.
+
+## Privacy Policy
+https://bizpocket.github.io/bizpocket-privacy/
+
+## Terms & Conditions
+https://bizpocket.github.io/bizpocket-privacy/terms.html
+
+## Contact
+bizpocket.app@gmail.com
